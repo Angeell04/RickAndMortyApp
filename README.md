@@ -70,4 +70,5 @@ Se muestra cuando falla la conexión o el `statusCode` es distinto de `200`, inc
 
 Demostración de la aplicación en funcionamiento (carga, listado, vista de detalle de personaje y navegación):
 
-<video src="fotos/videoFuncionamiento.mp4" controls width="360"></video>
+▶️ **[Ver y reproducir vídeo en GitHub (`fotos/videoFuncionamiento.mp4`)](./fotos/videoFuncionamiento.mp4)**
+
