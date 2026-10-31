@@ -64,11 +64,5 @@ Se muestra cuando falla la conexión o el `statusCode` es distinto de `200`, inc
 
 ![Estado de Error](fotos/fotoReintentoTraerDatos.jpeg)
 
----
 
-## 4. Vídeo de Funcionamiento
-
-Demostración de la aplicación en funcionamiento (carga, listado, vista de detalle de personaje y navegación):
-
-▶️ **[Ver y reproducir vídeo en GitHub (`fotos/videoFuncionamiento.mp4`)](./fotos/videoFuncionamiento.mp4)**
 
